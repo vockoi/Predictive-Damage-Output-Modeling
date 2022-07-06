@@ -4,7 +4,7 @@
 
 ### Aim
 
-This data science research project aims to predict the total damage a player with a TopLaner or Jungler role would inflict in a League of Legends match, given the game mechanics they decide to focus on. 
+This data science research project aims to predict the total damage a player would inflict in a League of Legends match, given the game mechanics they decide to focus on.
 
 ### Files
 
