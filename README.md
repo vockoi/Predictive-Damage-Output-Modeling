@@ -1,8 +1,12 @@
 # Predictive Damage Output Modeling - League Of Legends
 
-Group Members: Victoria H, Stephanie H, Nicholas S, Jeff K
+**Group Members**: Victoria H, Stephanie H, Nicholas S, Jeff K
+
+### Aim
 
 This data science research project aims to predict the total damage a player with a TopLaner or Jungler role would inflict in a League of Legends match, given the game mechanics they decide to focus on. 
+
+### Files
 
 Our project methodology and results are summed up in 'report_group99.pdf'.
 Code used to conduct data wrangling, analysis and evaluation can be found in 'project_code.ipynb'.
